@@ -1,0 +1,6 @@
+{
+  "name": "English Buddy AI",
+  "description": "Your friendly English-speaking AI partner and tutor. Conversational practice, intelligent grammar corrections, English + Urdu explanations, interactive vocabulary notebook, and voice support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
